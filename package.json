@@ -1,0 +1,15 @@
+{
+  "name": "PayLaneAPI",
+  "version": "0.0.1",
+  "author": "Kamil Warpechowski<k.warpechowski@hakama.pl>",
+  "description": "PayLane payments API for nodejs",
+  "main": "lib/paylane.js",
+  "dependencies": {},
+  "keywords": [
+    "payments",
+    "test"
+  ],
+  "devDependencies": {
+    "request": "^2.45.0"
+  }
+}
